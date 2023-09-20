@@ -7,3 +7,5 @@ based on TheMovieDB API, all the data dynamicly rendered from the api
 -each tv show page has its own realtime chat (only shown when you logged in)
 
 
+![Example Image](images/screenshot_1.png)
+![Example Image](images/screenshot_2.png)
